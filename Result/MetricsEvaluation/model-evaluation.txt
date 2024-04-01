@@ -1,0 +1,22 @@
+All accuracy: 97.62%
+All loss: 7.79%
+Train accuracy: 97.03%
+Test accuracy: 98.52%
+ROC value train: 49.85%
+ROC value test: 50.90%
+
+Classification Report
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       313
+           1       1.00      0.96      0.98       274
+           2       0.98      1.00      0.99       289
+
+    accuracy                           0.99       876
+   macro avg       0.99      0.98      0.98       876
+weighted avg       0.99      0.99      0.99       876
+
+Confusion Matrix
+[[312   1   0]
+ [  4 263   7]
+ [  1   0 288]]
