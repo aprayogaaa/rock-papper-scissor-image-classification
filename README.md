@@ -11,6 +11,10 @@ This project demonstrates an image classification model for rock-paper-scissors 
 - Evaluating model performance
 - Saving evaluation results
 
+## Screenshot
+![Untitled](https://github.com/aprayogaaa/rock-papper-scissor-image-classification/assets/70948216/b047ae78-b2ab-4a77-b758-0302c89743e2)
+
+
 ## Usage:
 1. Clone the repository:
 ```bash
